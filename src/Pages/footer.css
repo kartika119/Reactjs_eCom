@@ -1,0 +1,33 @@
+.div_footer{
+    background-color: #a1caef;
+    height:fit-content;
+    font-family: cursive;
+
+   
+}
+
+.row_footer{
+    margin-top: 1em;
+
+
+    
+}
+
+.main-head{
+    padding-left: 20px;
+    font-weight: 700;
+    padding-top: 1.5em;
+}
+.col_link{
+    list-style-type:none ;
+
+}
+
+.payment_nav{
+    display :flex;
+    justify-content:stretch;
+}
+.payment_nav  li{
+    list-style-type:none ;
+    padding-left:10px;
+}

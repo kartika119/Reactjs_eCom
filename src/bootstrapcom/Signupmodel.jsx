@@ -15,7 +15,7 @@ function Signupmodel() {
         <div>
             <a style={{
 
-                paddingLeft: "70rem",
+               
                 fontFamily: 'Qahiri',
                 fontSize: "34px"
             }}

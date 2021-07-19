@@ -32,7 +32,7 @@ function Signupmodel() {
                          <Form>
                             
 
-                         <Row className="mb-3">
+                         <Row className="mb-7">
                             <Form.Group as={Col} controlId="formGridName">
                                 <Form.Label>First Name</Form.Label>
                                 <Form.Control type="text" placeholder="Enter  first name" />

@@ -21,8 +21,13 @@
 
 
 .nav_sec{
-    font-family: 'Qahiri';
-    font-size: 30px;
+    font-family: monospace;
+    font-size: 21px;
+
+}
+#nav-dropdown{
+    font-family: monospace;
+    font-size: 21px;
 }
 
 

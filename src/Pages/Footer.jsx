@@ -90,14 +90,18 @@ export default class Footer extends Component {
                         <Row style={{ paddingLeft: "32rem" }}  >
                             <img src={store} style={{
 
-                                height:" 5em",
+                                height:" 6em",
                                 width: "9em",
-                                borderRadius: "9rem"
+                                borderRadius: "50%"
                             }} />
                         </Row>
 
                         {/* <Row>
 
+
+height: 6em;
+    width: 9em;
+    border-radius: 50%;
                             <h6 style={{
                                 float: 'right',
 
